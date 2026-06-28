@@ -50,6 +50,7 @@ Below is a breakdown of the programs included in this practice set:
 
 ## 👨‍💻 Author
 
-**MD Shahnawaz Noor**  *Aspiring Data Scientist * 
+**MD Shahnawaz Noor**  
+*Aspiring Data Scientist * 
 
 *This repository is a live record of continuous learning, emphasizing a learning-by-doing approach to master Java step by step.*
