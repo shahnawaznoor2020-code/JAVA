@@ -1,13 +1,13 @@
 # Java Control Statements & Conditional Logic
 
-A dedicated repository section tracking my daily practice in mastering Java's decision-making constructs. This collection focuses on implementing conditional logic, relational operators, and algorithmic evaluations to build dynamic and responsive programs.
+A dedicated repository section tracking my daily practice in mastering Java's decision-making constructs. This collection focuses on implementing conditional logic, relational operators, nested statements, and algorithmic evaluations to build dynamic and responsive programs.
 
 ## 🚀 Overview
-This module covers the practical application of control flow in Java. The programs demonstrate how to control the execution path of a script based on specific conditions, utilizing `if`, `if-else`, and `else-if` ladders alongside logical AND (`&&`) / OR (`||`) operators. The logic is applied to various real-world, mathematical, and geometric problems.
+This module covers the practical application of control flow in Java. The programs demonstrate how to control the execution path of a script based on specific conditions, utilizing `if`, `if-else`, `else-if` ladders, and the concise **Ternary Operator (`? :`)**. The logic is applied to various real-world, mathematical, and geometric problems.
 
 ## 🛠️ Tech Stack & Tools
 * **Language:** Java
-* **Core Concepts:** Control Flow, Relational Operators, Boolean Logic, Modulo Arithmetic, Standard I/O
+* **Core Concepts:** Control Flow, Relational Operators, Boolean Logic, Ternary Operators, Nested Conditionals, Standard I/O
 
 ## 📂 File Index & Structure
 
@@ -25,6 +25,12 @@ This module covers the practical application of control flow in Java. The progra
 * `_69_Integer_Checking.java`: Evaluates the magnitude of a number against absolute boundaries using complex logical conditions.
 * `Integer_checking.java`: Compares a `double` value against its type-casted `int` counterpart to determine if the input contains a fractional part.
 
+### Ternary Operators & Nested Logic
+* `GreatestOfThree.java`: Uses nested `if-else` statements and compound conditions to find the maximum of three numbers, effectively handling equality edge cases.
+* `EvenOddTernaryOperator.java`: Replaces traditional `if-else` blocks with a concise ternary operator (`? :`) to check for even or odd numbers directly within a print statement.
+* `TernaryInVariable.java`: Demonstrates using the ternary operator to conditionally assign a specific value to a variable based on user input.
+* `GreatestOfThreeTernaryOperator.java`: Implements a complex *nested* ternary operator to determine the greatest of three numbers in a single, highly optimized line of code.
+
 ### Mathematical, Financial & Geometric Validations
 * `Profit_Loss.java`: Compares cost price and selling price to calculate the exact profit or loss amount.
 * `Profit_Loss_percentage.java`: Expands on basic financial logic to compute and display the exact percentage of profit or loss.
@@ -34,6 +40,7 @@ This module covers the practical application of control flow in Java. The progra
 
 ## 💡 Key Learnings & Features
 * **Decision Making:** Effectively routing program logic using structured conditional blocks and `else-if` ladders.
+* **Code Optimization:** Utilizing the Ternary Operator (`? :`) to write cleaner, more concise conditional assignments and inline evaluations.
 * **Compound Logic:** Combining multiple conditions using `&&` and `||` to evaluate complex boolean expressions and coordinate systems.
 * **Algorithmic Validations:** Applying mathematical theorems (like the Triangle Inequality) and financial formulas to solve practical problems purely through code logic.
 
