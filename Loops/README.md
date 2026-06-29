@@ -35,6 +35,6 @@ This module covers the practical application of repetitive control flow in Java.
 ---
 ## 👨‍💻 Author
 
-**MD Shahnawaz Noor** 
-*Aspiring Data Scientist*  
+**MD Shahnawaz Noor**   
+*Aspiring Data Scientist* 
 GitHub: [https://github.com/shahnawaznoor2020](https://github.com/shahnawaznoor2020)
