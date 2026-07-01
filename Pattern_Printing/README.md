@@ -27,4 +27,7 @@ This module covers the practical application of nested `for` loops in Java. The 
 ---
 ## 👨‍💻 Author
 
-**MD Shahnawaz Noor** *Aspiring Data Scientist* GitHub: [https://github.com/shahnawaznoor2020](https://github.com/shahnawaznoor2020)
+**MD Shahnawaz Noor**           
+*Aspiring Data Scientist*        
+
+GitHub: [https://github.com/shahnawaznoor2020](https://github.com/shahnawaznoor2020)
