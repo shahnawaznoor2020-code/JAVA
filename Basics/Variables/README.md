@@ -39,14 +39,14 @@ The program is written in a **simple and readable format**.
 The program prints the modified values directly to the console during execution.  
 The complete console output for this practice question is shown below.
 
-![Console Output](Output_17.png)
+![Console Output](Output.png)
 
 ---
 
 ## 📂 File Information
 
 - `Variables.java` — Contains the practice question program  
-- `Output_17.png` — Screenshot of console output  
+- `Output.png` — Screenshot of console output  
 - `README.md` — Folder documentation  
 
 ---
