@@ -40,14 +40,14 @@ The program is written in a **simple and readable format**.
 The program prints the calculated square directly to the console after taking user input.  
 The complete console output for this practice question is shown below.
 
-![Console Output](Output_12.png)
+![Console Output](Output.png)
 
 ---
 
 ## 📂 File Information
 
 - `square_of_a_number.java` — Contains the practice question program  
-- `Output_12.png` — Screenshot of console output  
+- `Output.png` — Screenshot of console output  
 - `README.md` — Folder documentation  
 
 ---
