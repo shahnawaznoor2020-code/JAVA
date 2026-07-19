@@ -35,14 +35,14 @@ The program is written in a **simple and readable format**.
 The program prints the evaluated integer and the string literal directly to the console during execution.  
 The complete console output for this practice question is shown below.
 
-![Console Output](Output_10.png)
+![Console Output](Output.png)
 
 ---
 
 ## 📂 File Information
 
 - `Program2.java` — Contains the practice question program  
-- `Output_10.png` — Screenshot of console output  
+- `Output.png` — Screenshot of console output  
 - `README.md` — Folder documentation  
 
 ---
