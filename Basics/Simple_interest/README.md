@@ -41,14 +41,14 @@ The program is written in a **simple and readable format**.
 The program prints the calculated simple interest and total amount directly to the console after taking user input.  
 The complete console output for this practice question is shown below.
 
-![Console Output](Output_11.png)
+![Console Output](Output.png)
 
 ---
 
 ## 📂 File Information
 
 - `Simple_interest.java` — Contains the practice question program  
-- `Output_11.png` — Screenshot of console output  
+- `Output.png` — Screenshot of console output  
 - `README.md` — Folder documentation  
 
 ---
