@@ -37,14 +37,14 @@ The program is written in a **simple and readable format**.
 The program prints the calculated sum directly to the console after taking user input.  
 The complete console output for this practice question is shown below.
 
-![Console Output](Output_13.png)
+![Console Output](Output.png)
 
 ---
 
 ## 📂 File Information
 
 - `Sum_of_numbers.java` — Contains the practice question program  
-- `Output_13.png` — Screenshot of console output  
+- `Output.png` — Screenshot of console output  
 - `README.md` — Folder documentation  
 
 ---
