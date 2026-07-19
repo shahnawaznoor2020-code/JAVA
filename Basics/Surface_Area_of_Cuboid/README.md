@@ -39,14 +39,14 @@ The program is written in a **simple and readable format**.
 The program prints the calculated surface area directly to the console during execution.  
 The complete console output for this practice question is shown below.
 
-![Console Output](Output_14.png)
+![Console Output](Output.png)
 
 ---
 
 ## 📂 File Information
 
 - `Surface_Area_of_Cuboid.java` — Contains the practice question program  
-- `Output_14.png` — Screenshot of console output  
+- `Output.png` — Screenshot of console output  
 - `README.md` — Folder documentation  
 
 ---
