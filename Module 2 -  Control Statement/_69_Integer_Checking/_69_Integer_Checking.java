@@ -1,4 +1,4 @@
-package Control_Statement;
+package Control_Statement._69_Integer_Checking;
 
 import java.util.Scanner;
 
