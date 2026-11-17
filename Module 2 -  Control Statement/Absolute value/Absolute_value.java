@@ -1,8 +1,8 @@
-package Control_Statement;
+package Control_Statement.Absolut_value;
 
 import java.util.Scanner;
 
-public class Absolut_value
+public class Absolute_value
 {
     public static void main(String []args)
     {
@@ -20,3 +20,4 @@ public class Absolut_value
         //System.out.println("The absolut value of " + n + " is " + abs);
     }
 }
+

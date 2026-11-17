@@ -1,7 +1,5 @@
 package Basics;
 
-import java.util.Scanner;
-
 public class Surface_Area_of_Cuboid
 {
     public static void main(String args[])
