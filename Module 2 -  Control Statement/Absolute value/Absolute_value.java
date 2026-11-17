@@ -1,4 +1,4 @@
-package Control_Statement.Absolut_value;
+package Control_Statement.Absolute_value;
 
 import java.util.Scanner;
 

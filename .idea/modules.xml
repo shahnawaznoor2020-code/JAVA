@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Module_1 - Basics/Basics.iml" filepath="$PROJECT_DIR$/Module_1 - Basics/Basics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Module 1 - Basics/Basics.iml" filepath="$PROJECT_DIR$/Module 1 - Basics/Basics.iml" />
       <module fileurl="file://$PROJECT_DIR$/Module 2 -  Control Statement/Control Statement.iml" filepath="$PROJECT_DIR$/Module 2 -  Control Statement/Control Statement.iml" />
       <module fileurl="file://$PROJECT_DIR$/IdeaProjects.iml" filepath="$PROJECT_DIR$/IdeaProjects.iml" />
     </modules>

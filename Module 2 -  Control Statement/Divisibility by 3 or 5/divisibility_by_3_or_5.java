@@ -1,4 +1,4 @@
-package Control_Statement;
+package Control_Statement.divisibility_by_3_or_5;
 
 import java.util.Scanner;
 
