@@ -7,6 +7,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Divisibility By 5" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Divisibility By 5 or 3" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Divisibility by 3 or 5" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Even Odd Number" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/_69_Integer_Checking" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />

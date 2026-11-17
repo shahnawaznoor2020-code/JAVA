@@ -1,4 +1,4 @@
-package Control_Statement;
+package Control_Statement.Even_Odd_Number;
 
 import java.util.Scanner;
 
