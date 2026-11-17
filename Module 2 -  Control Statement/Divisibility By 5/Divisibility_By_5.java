@@ -1,4 +1,4 @@
-package Control_Statement;
+package Control_Statement.Divisibility_By_5;
 
 import java.util.Scanner;
 
