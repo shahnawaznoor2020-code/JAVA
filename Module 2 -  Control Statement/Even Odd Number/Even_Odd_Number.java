@@ -1,5 +1,3 @@
-package Control_Statement.Even_Odd_Number;
-
 import java.util.Scanner;
 
 public class Even_Odd_Number
