@@ -1,4 +1,4 @@
-package Loops;
+package AllEvenNumbersBetween1To100;
 
 public class AllEvenNumbersBetween1To100
 {
