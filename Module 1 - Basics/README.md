@@ -42,10 +42,13 @@ Below is a breakdown of the programs included in this practice set:
 *   `Sum_of_numbers.java`: Reads three separate integers from the user and outputs their sum[cite: 8].
 
 ---
-
 ## 👨‍💻 Author
 
-**MD Shahnawaz Noor**  
-*Aspiring Data Scientist *  
+**MD Shahnawaz Noor**     
+*Aspiring Data Scientist*
 
+GitHub: [https://github.com/shahnawaznoor2020-code](https://github.com/shahnawaznoor2020-code)             
+Email: shahnawaznoor2020@gmaIl.com
+ 
+---
 *This repository is a live record of continuous learning, emphasizing a learning-by-doing approach to master Java step by step.*
