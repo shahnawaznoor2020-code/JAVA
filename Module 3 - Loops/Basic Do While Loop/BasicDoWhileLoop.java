@@ -1,7 +1,3 @@
-package Loops;
-
-import java.util.Scanner;
-
 public class BasicDoWhileLoop
 {
     public static void main(String args[])
