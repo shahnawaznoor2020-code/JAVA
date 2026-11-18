@@ -5,10 +5,13 @@
     <content url="file://$MODULE_DIR$">
       <sourceFolder url="file://$MODULE_DIR$" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/All Alphabet With Their ASCII Value" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/A Raised To Power To B" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/All Even Numbers Between 1 To 100" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/All Odd Number Divisible By 3 Between 1 To 100" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Any Arthimetic Progression" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Any Geometric Progression" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Arthemetic Progression 2 5 8" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Basic Do While Loop" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
