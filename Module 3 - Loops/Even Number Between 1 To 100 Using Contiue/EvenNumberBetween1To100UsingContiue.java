@@ -1,5 +1,3 @@
-package Loops;
-
 public class EvenNumberBetween1To100UsingContiue
 {
     public static void main(String[] args)
