@@ -1,5 +1,3 @@
-package Control_Statement;
-
 import java.util.Scanner;
 
 public class Sides_of_triangle
