@@ -1,5 +1,3 @@
-package Loops;
-
 public class AllAlphabetWithTheirASCIIValue
 {
     public static void main(String[] args)
