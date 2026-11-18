@@ -1,5 +1,3 @@
-package Loops;
-
 public class BasicWhileLoop
 {
     public static void main(String args[])
