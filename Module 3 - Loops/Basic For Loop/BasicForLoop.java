@@ -1,5 +1,3 @@
-package Loops;
-
 public class BasicForLoop
 {
     public static void main(String args[])
