@@ -1,5 +1,3 @@
-package Loops;
-
 public class AllOddNumberDivisibleBy3Between1To100
 {
     public static void main(String args[])
