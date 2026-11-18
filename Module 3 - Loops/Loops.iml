@@ -5,6 +5,7 @@
     <content url="file://$MODULE_DIR$">
       <sourceFolder url="file://$MODULE_DIR$" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/All Alphabet With Their ASCII Value" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/All Even Numbers Between 1 To 100" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
