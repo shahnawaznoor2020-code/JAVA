@@ -8,6 +8,7 @@
       <sourceFolder url="file://$MODULE_DIR$/All Even Numbers Between 1 To 100" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/All Odd Number Divisible By 3 Between 1 To 100" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Any Arthimetic Progression" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Any Geometric Progression" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
