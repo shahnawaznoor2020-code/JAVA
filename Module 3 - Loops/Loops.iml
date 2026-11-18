@@ -15,6 +15,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Basic Loop" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Basic While Loop" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Even Number Between 1 To 100 Using Contiue" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Factorial Of Number" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
