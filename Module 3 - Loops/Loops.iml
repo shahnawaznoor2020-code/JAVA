@@ -17,6 +17,8 @@
       <sourceFolder url="file://$MODULE_DIR$/Even Number Between 1 To 100 Using Contiue" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Factorial Of Number" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Factors Of Number" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Geometric Progression" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Number Of Digit" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
