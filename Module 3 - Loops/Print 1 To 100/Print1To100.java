@@ -1,5 +1,3 @@
-package Loops;
-
 public class Print1To100
 {
     public static void main(String args[])

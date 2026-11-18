@@ -1,7 +1,6 @@
 package Basics;
 
-public class Type_CAsting
-{
+public class Type_Casting{
     static void main(String[] args)
     {
         //Type Casting
