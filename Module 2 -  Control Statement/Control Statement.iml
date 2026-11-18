@@ -21,6 +21,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Rectagle" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Relational Operator" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Sides of Triangle" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Ternary In Variable" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
