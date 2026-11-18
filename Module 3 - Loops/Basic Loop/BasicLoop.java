@@ -1,4 +1,4 @@
-public class BasicForLoop
+public class BasicLoop
 {
     public static void main(String args[])
     {
