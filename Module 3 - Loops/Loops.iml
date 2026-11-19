@@ -23,6 +23,8 @@
       <sourceFolder url="file://$MODULE_DIR$/Print 1 To 100" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Printing N Times" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Print Number From N To 1" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Print Series 99 95 91 Till The Last Positive Number" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Reverse Of a Number" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

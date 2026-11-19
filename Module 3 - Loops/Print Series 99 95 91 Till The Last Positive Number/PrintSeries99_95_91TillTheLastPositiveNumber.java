@@ -1,5 +1,3 @@
-package Loops;
-
 public class PrintSeries99_95_91TillTheLastPositiveNumber
 {
     public static void main(String args[])
