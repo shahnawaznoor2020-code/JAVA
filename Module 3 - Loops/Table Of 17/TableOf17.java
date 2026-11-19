@@ -1,7 +1,3 @@
-package Loops;
-
-import java.util.Scanner;
-
 public class TableOf17
 {
     public static void main(String[] args)

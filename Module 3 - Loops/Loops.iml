@@ -27,6 +27,9 @@
       <sourceFolder url="file://$MODULE_DIR$/Reverse Of a Number" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Sequence Printing" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Sum And Reverse Of Number" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Sum Of Digits" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Table Of 17" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Table Of Any Number" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
