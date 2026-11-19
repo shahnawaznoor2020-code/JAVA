@@ -11,6 +11,9 @@
       <sourceFolder url="file://$MODULE_DIR$/Alphabet Triangle 3" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Alphabet Triangle Vertically Flipped" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Alphanumeric Triangle" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Binary Triangle" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Floyds Triangle" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Hollow Star Rectangle" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
