@@ -25,7 +25,8 @@
       <sourceFolder url="file://$MODULE_DIR$/Small Alphabet Square" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Small Alphabet Square 2" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Small Alphabet Triangle" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Small Alphabet Triangle Horzontally Flipped" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Small Alphabet Triangle Horizontally Flipped" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Small Alphabet Triangle Horizontally Flipped 2" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
