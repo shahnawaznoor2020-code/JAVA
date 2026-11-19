@@ -16,6 +16,8 @@
       <sourceFolder url="file://$MODULE_DIR$/Hollow Star Rectangle" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Number Square" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Number Triangle" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Number Triangle Horizontally Flipped" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Number Triangle Horizontally Flipped 2" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
