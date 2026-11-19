@@ -32,6 +32,7 @@
       <sourceFolder url="file://$MODULE_DIR$/StarRectangle" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/StarSquare" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/StarSquare 2" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/StarTriangle" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
