@@ -1,5 +1,3 @@
-package Pattern_Printing;
-
 import java.util.Scanner;
 
 public class AlphabetSquare2
