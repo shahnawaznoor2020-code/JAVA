@@ -34,6 +34,7 @@
       <sourceFolder url="file://$MODULE_DIR$/StarSquare 2" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/StarTriangle" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/StarTriangle Diagonally Flipped" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/StarTriangle Horizontally Flipped" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
