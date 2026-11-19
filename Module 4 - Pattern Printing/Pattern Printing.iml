@@ -29,6 +29,8 @@
       <sourceFolder url="file://$MODULE_DIR$/Small Alphabet Triangle Horizontally Flipped 2" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/StarCross" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/StarPlus" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/StarRectangle" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/StarSquare" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
